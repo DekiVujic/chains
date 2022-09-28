@@ -1,0 +1,24 @@
+{
+    "name": "Libex Chain Mainnet",
+    "chain": "LBX",
+    "rpc": [
+      "https://rpc.libex.ai"
+    ],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "LBX Coin",
+      "symbol": "LBX",
+      "decimals": 18
+    },
+    "infoURL": "https://stats.libex.ai",
+    "shortName": "lbx",
+    "chainId": 2701,
+    "networkId": 2701,
+    "icon": "",
+    "explorers": [{
+      "name": "lbx-explorer",
+      "url": "https://explorer.libex.ai",
+      "icon": "",
+      "standard": "EIP3091"
+    }]
+  }
