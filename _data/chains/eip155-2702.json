@@ -1,0 +1,24 @@
+{
+    "name": "Libex Chain Testnet",
+    "chain": "LBX",
+    "rpc": [
+      "https://test-rpc.libex.ai"
+    ],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "LBX Faucet",
+      "symbol": "tLBX",
+      "decimals": 18
+    },
+    "infoURL": "https://libex.ai",
+    "shortName": "lbx",
+    "chainId": 2702,
+    "networkId": 2702,
+    "icon": "",
+    "explorers": [{
+      "name": "lbx-testnet-explorer",
+      "url": "https://test-explorer.libex.ai",
+      "icon": "",
+      "standard": "EIP3091"
+    }]
+  }
